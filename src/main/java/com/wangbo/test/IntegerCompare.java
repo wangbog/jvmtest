@@ -10,7 +10,6 @@ public class IntegerCompare {
         Integer i3 = 300;
         Integer i4 = 300;
         System.out.println(i3==i4);
-
     }
 
 }
